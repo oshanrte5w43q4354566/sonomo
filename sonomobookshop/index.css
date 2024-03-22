@@ -1,0 +1,38 @@
+/*universal*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/***------home page------***/
+.home{
+    width: 100%;
+    background-position: center;
+    background-image: url(img3.webp);
+    background-size: cover;
+    height: 109vh;
+    padding: 300px 300px;
+    justify-content: center;
+}
+
+
+.home #homeh1{
+    font-size: 80px;
+    color: #fff;
+    letter-spacing: 2.5px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 0px 0.5px 0px #0a0a0a, 0px 1px 0.2px #0a0909 ,0px 2px 0.4px #070707;
+}
+
+.home #homeh2{
+    font-size: 40px;
+    color: #fff;
+    letter-spacing: 2.5px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 0px 0.5px 0px #0a0a0a, 0px 1px 0.2px #0a0909 ,0px 2px 0.4px #070707;
+}
+

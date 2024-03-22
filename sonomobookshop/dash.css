@@ -1,0 +1,39 @@
+#bl{
+    padding-top: 20px;
+    justify-content: center;
+    font-family: 'Times New Roman';  
+    font-size: 50px;
+    color: #ffffffdf;
+    text-shadow: 0px 2.6px 0.4px rgb(31, 64, 229);
+    font-weight: bold;
+}
+
+#addbtn{
+    padding-left: 40px;
+}
+
+#addbook1{
+    background: rgb(31, 64, 229);
+    border-radius: 10px;
+    color: #f4eff0;
+    font-weight: bolder;
+}
+
+#addbook1:hover{
+    border-color:  rgb(93, 198, 131);
+    
+}
+
+.table{
+    color: #00C6DD !important;
+    border: #00C6DD !important;
+}
+
+
+body{
+    justify-content: center;
+    align-items: center;
+    background-image: url(img2.jpg);
+    background-position: center;
+}
+

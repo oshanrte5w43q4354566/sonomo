@@ -1,0 +1,48 @@
+section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #B8AFB0;
+    justify-content: center;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+/*Card*/
+p{
+    font-size: 20px;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    font-size: 15px !important;
+}
+
+h4,h5{
+    padding-top: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card{
+    width: 250px;
+    height: 300px;
+    background: #e5e5e5 !important;
+    border: none !important;
+    box-shadow: 15px 20px 20px rgba(0,0,0,0.3), inset 4px 4px 10px whitesmoke;
+    border-radius: 10px !important;
+    overflow: hidden;
+    margin: 25px 50px;
+    padding: 10px;
+}
+
+/*Social media icon*/
+i{
+    font-size: 30px;
+}
+
+
+

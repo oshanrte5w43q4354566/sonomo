@@ -1,0 +1,82 @@
+/*universal*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Email details bar*/
+#up{
+    background: #00C6DD;
+    height: 50px;
+}
+#Phone{
+    font-size: 13px;
+    padding-top: 8px;
+    padding-left: 60px;
+    
+}
+
+#em{
+    font-size: 13px;
+    padding-top: 8px;
+    padding-right: 100px;
+}
+
+#as{
+    font-size: 13px;
+    padding-top: 8px;
+    padding-right: 60px;
+}
+
+#up a:hover{
+    border-bottom: 2px solid #0b0b0b;
+}
+
+/***------navigation bar------***/
+#navbar1{
+    position: sticky;
+    padding: 10px 10px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    background:  #3A394C;
+}
+
+.navbar .navbar-brand{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman';
+    font-weight: bolder;
+    color:#b87e5ae1 !important;
+    text-shadow: 0px 0.5px 0px #FBE0E6, 0px 1px 0.2px #FBE0E6 ,0px 1.5px 0.4px #FBE0E6;
+    padding-left: 35px;
+}
+
+#naba{
+    padding-right: 170px;
+}
+
+li a{
+    padding: 15px;
+    color: #fff !important;
+    border-bottom: 2px solid transparent;
+    font-size: 18px !important;
+}
+
+li a:hover{
+    color: rgb(36, 163, 213) !important;
+}
+
+
+#login1{
+    background: #29c11b;
+    border-radius: 15px;
+    color:antiquewhite;
+}
+
+#logbtn{
+    padding-right: 67px;
+    padding-left: 37.5px;
+}
+
+#login1:hover{
+    background: #f4eff0;
+    color: #0e0d0d;
+}
